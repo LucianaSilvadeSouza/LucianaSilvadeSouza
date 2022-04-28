@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on tech companies
-- 📫 How to reach me, mail lucisouzasilva6@gmail.com or linkendin: Luciana Souza
+- 📫 How to reach me, mail lucisouzasilva6@gmail.com or Linkedin: Luciana Souza
 
 <!---
 LucianaSilvadeSouza/LucianaSilvadeSouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
